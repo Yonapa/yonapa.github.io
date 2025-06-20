@@ -1,8 +1,9 @@
 ---
-title: "My GitHub Page"
-description: "Automatically generated page"
+layout: home
+title: "Welcome to My Site"
+description: "My GitHub Pages site"
 ---
 
-# Welcome
+# Hello World!
 
-This page was created automatically.
+This site is powered by [Jekyll](https://jekyllrb.com/) and GitHub Pages.
